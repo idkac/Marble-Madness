@@ -6,3 +6,11 @@ you've already installed XQuartz.
 		make
 3. To run the program, type
 		./MarbleMadness
+
+GAME CONTROLS:
+To move in the game: use WASD
+Press SPACE to shoot
+
+If you wish to create your own custom levels, go into the Assets folder and edit the existing .txt files to make your own changes. It is also possible for you to make a new level as long as you keep the naming consistent.
+
+The game is overall fairly simple so I will leave it up to you to figure it out.
