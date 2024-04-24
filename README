@@ -1,0 +1,8 @@
+This is how to build MarbleMadness in a macOS Terminal window, assuming
+you've already installed XQuartz.
+
+1. Download the Mac command line skeleton for MarbleMadness and unzip it.
+2. To build the program, change into the MarbleMadness directory and type
+		make
+3. To run the program, type
+		./MarbleMadness
